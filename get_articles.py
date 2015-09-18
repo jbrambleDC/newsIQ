@@ -11,7 +11,7 @@ import sys
 #construct builds of all segments on CNN
 #save to folders
 #build Trainer
-urls =['http://www.cato.org/commentary']
+urls =['http://www.thenation.com']
 #cnn_paper = ns.build('http://cnn.com')
 #medium = ns.build('http://medium.com')
 
@@ -33,8 +33,8 @@ for url in urls:
             article.download()
             article.parse()
             print article.text
-            print url.split('.')[1] + '/' + article.title.split(' ')[0] +'.txt'
-            path ='news/' + url.split('.')[1] + '/' + article.title.split(' ')[0] +'.txt'
+            print url.split('.')[1] + '/' + article.title.replace(' ','_') +'.txt'
+            path ='news/' + url.split('.')[1] + '/' + article.title.replace(' ','_').replace("'",'').replace('/','').replace(',','').replace('-','_').replace('.','') +'.txt'
             print os.path.dirname(url.split('.')[1])
             ensure_dir('news/'+url.split('.')[1])
             f = open(path,'wb')
