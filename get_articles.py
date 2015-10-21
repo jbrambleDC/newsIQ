@@ -23,7 +23,6 @@ def ensure_dir(f):
         print "done"
         os.makedirs(f)
 
-
 for url in urls:
     print url
     paper = ns.build(url)
@@ -34,9 +33,9 @@ for url in urls:
             article.parse()
             print article.text
             print url.split('.')[1] + '/' + article.title.replace(' ','_') +'.txt'
-            path ='test_data/' + url.split('.')[1] + '/' + article.title.replace(' ','_').replace(':','').replace("'",'').replace('/','').replace(',','').replace('-','_').replace('.','').replace(';','') +'.txt'
+            path ='news/' + url.split('.')[1] + '/' + article.title.replace(' ','_').replace(':','').replace("'",'').replace('/','').replace(',','').replace('-','_').replace('.','').replace(';','') +'.txt'
             print os.path.dirname(url.split('.')[1])
-            ensure_dir('test_data/'+url.split('.')[1])
+            ensure_dir('news/'+url.split('.')[1])
             f = open(path,'wb')
             f.write(unicode(article.text).encode("utf-8"))
             f.close()
