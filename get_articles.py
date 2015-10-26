@@ -18,9 +18,7 @@ print urls
 #urls = [url for url in cnn_paper.category_urls()]
 def ensure_dir(f):
     d = os.path.dirname(f)
-    print d
     if not os.path.exists(f):
-        print "done"
         os.makedirs(f)
 
 for url in urls:
