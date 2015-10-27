@@ -2,9 +2,16 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.probability import FreqDist
 from nltk.stem.porter import PorterStemmer
+from nltk.corpus import stopwords
+
+import plotly.plotly as ply
+import plotly.graph_objs as go
 
 import sys
 import re
+
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 ##allow to take a directory
 def get_files():
@@ -21,10 +28,12 @@ def freq_dist(files):
     for f in files:
         with open(f,"rb") as curr_file:
             data = word_tokenize(curr_file.read().replace('\n', ''))
-            words += [pstm.stem(d) for d in data]
-    return FreqDist(w.lower() for w in words)
+            words += [pstm.stem(d) for d in data if d.lower() not in stopwords.words('english') and len(d) > 5]
+    return dict(FreqDist(w.encode('utf-8').lower() for w in words).items()[0:100])
 
 def main():
-    freq_dist(get_files()).plot().show()
+    terms = freq_dist(get_files())
+    data = [go.Bar(x=terms.keys(),y=terms.values())]
+    plot_url = ply.plot(data, filename='word_hist_lib')
 
 main()
