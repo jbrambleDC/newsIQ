@@ -1,0 +1,501 @@
+Most Informative Features
+     ('new', 'republic') = True           libera : libert =     46.0 : 1.0
+             ('f', '35') = True           conser : libert =     45.6 : 1.0
+          ('30', '2015') = True           conser : libert =     44.8 : 1.0
+          ('25', '2015') = True           conser : libert =     43.3 : 1.0
+         ('john', 'doe') = True           conser : libert =     43.3 : 1.0
+           ('2015', '4') = True           conser : libert =     41.1 : 1.0
+   ('freedom', 'caucus') = True           conser : libert =     40.5 : 1.0
+      ('dorothy', 'day') = True           conser : libert =     39.1 : 1.0
+          ('2015', '12') = True           conser : libert =     36.2 : 1.0
+             ('4', '00') = True           conser : libert =     36.2 : 1.0
+ ('trade', 'agreements') = True           libert : libera =     33.5 : 1.0
+('reporter', 'national') = True           conser : libert =     33.4 : 1.0
+('white', 'nationalist') = True           conser : libert =     33.4 : 1.0
+          ('sept', '16') = True           conser : libert =     32.0 : 1.0
+          ('e', 'mails') = True           conser : libert =     30.1 : 1.0
+('boehner\xe2', '\x80\x99') = True           libera : libert =     29.4 : 1.0
+('fiorina\xe2', '\x80\x99') = True           conser : libert =     29.1 : 1.0
+    ('rebecca', 'leber') = True           libera : libert =     28.2 : 1.0
+     ('self', 'control') = True           libera : libert =     28.2 : 1.0
+        ('\xa9', '2015') = True           conser : libert =     27.7 : 1.0
+     ('september', '25') = True           conser : libert =     26.0 : 1.0
+       ('side', 'deals') = True           conser : libert =     26.0 : 1.0
+    ('voting', 'rights') = True           libera : libert =     25.8 : 1.0
+    ('review', 'online') = True           conser : libert =     24.9 : 1.0
+('clinton', 'foundation') = True           conser : libert =     24.9 : 1.0
+  ('national', 'review') = True           conser : libert =     24.4 : 1.0
+('political', 'reporter') = True           conser : libert =     23.4 : 1.0
+           ('oct', '28') = True           conser : libert =     22.0 : 1.0
+           ('2015', '6') = True           conser : libert =     22.0 : 1.0
+     ('election', 'day') = True           conser : libert =     21.7 : 1.0
+('democrats\xe2', '\x80\x99') = True           conser : libert =     20.6 : 1.0
+            ('14', '14') = True           conser : libert =     20.6 : 1.0
+   ('public', 'figures') = True           conser : libert =     20.6 : 1.0
+('clinton\xe2', '\x80\x99') = True           conser : libert =     19.8 : 1.0
+      ('tax', 'credits') = True           libert : libera =     19.4 : 1.0
+           ('2015', '7') = True           conser : libert =     19.2 : 1.0
+           ('2015', '3') = True           conser : libert =     19.2 : 1.0
+      ('us', 'military') = True           libera : libert =     18.8 : 1.0
+      ('new', 'orleans') = True           libert : conser =     18.0 : 1.0
+ ('general', 'election') = True           conser : libert =     17.8 : 1.0
+ ('democratic', 'party') = True           libera : libert =     17.6 : 1.0
+    ('roberts', 'court') = True           libera : libert =     17.4 : 1.0
+  ('\x80\x94', 'though') = True           libera : libert =     16.9 : 1.0
+    ('speaker', 'house') = True           conser : libert =     16.3 : 1.0
+ ('muslim', 'president') = True           conser : libert =     16.3 : 1.0
+       ('trey', 'gowdy') = True           conser : libert =     16.3 : 1.0
+  ('benghazi', 'attack') = True           conser : libert =     16.3 : 1.0
+           ('1', 'year') = True           libera : libert =     16.2 : 1.0
+     ('fetal', 'tissue') = True           libera : libert =     16.2 : 1.0
+        ('\xc2', '\xa9') = True           conser : libera =     16.2 : 1.0
+       ('new', 'report') = True           libert : libera =     16.1 : 1.0
+('sanders\xe2', '\x80\x99') = True           libera : conser =     16.0 : 1.0
+        ('china', 'sea') = True           libert : libera =     15.7 : 1.0
+      ('south', 'china') = True           libert : libera =     15.7 : 1.0
+       ('tax', 'credit') = True           libert : libera =     15.7 : 1.0
+('carson\xe2', '\x80\x99') = True           conser : libert =     15.5 : 1.0
+         ('get', 'free') = True           libera : libert =     15.5 : 1.0
+('classified', 'information') = True           conser : libera =     15.4 : 1.0
+     ('justice', 'earl') = True           libert : libera =     15.4 : 1.0
+      ('earl', 'warren') = True           libert : libera =     15.4 : 1.0
+   ('private', 'school') = True           libert : libera =     15.4 : 1.0
+       ('free', 'trade') = True           libert : libera =     15.3 : 1.0
+   ('\x80\x99', 'david') = True           libert : libera =     15.0 : 1.0
+        ('tar', 'sands') = True           libera : libert =     15.0 : 1.0
+        ('part', 'time') = True           libera : libert =     15.0 : 1.0
+     ('d', 'williamson') = True           conser : libert =     14.9 : 1.0
+('foundation\xe2', '\x80\x99') = True           conser : libert =     14.9 : 1.0
+('editor\xe2', '\x80\x99') = True           conser : libert =     14.9 : 1.0
+    ('\x80\x99', 'note') = True           conser : libert =     14.9 : 1.0
+    ('\xe2', '\x80\x8b') = True           conser : libert =     14.9 : 1.0
+ ('senate', 'democrats') = True           conser : libert =     14.9 : 1.0
+              ('j', 'd') = True           conser : libert =     14.9 : 1.0
+  ('\x80\x94', 'it\xe2') = True           conser : libert =     14.9 : 1.0
+ ('policy', 'positions') = True           conser : libert =     14.9 : 1.0
+          ('kevin', 'd') = True           conser : libert =     14.9 : 1.0
+     ('september', '30') = True           conser : libert =     14.9 : 1.0
+      ('state', 'local') = True           libert : libera =     14.6 : 1.0
+          ('21', '2015') = True           conser : libert =     14.4 : 1.0
+        ('far', 'worse') = True           libert : libera =     14.3 : 1.0
+      ('2014', 'annual') = True           libert : libera =     14.3 : 1.0
+     ('\x80\x9d', 'new') = True           libert : conser =     13.9 : 1.0
+       ('every', 'week') = True           libera : libert =     13.8 : 1.0
+('husband\xe2', '\x80\x99') = True           libera : libert =     13.8 : 1.0
+('defunding', 'planned') = True           conser : libert =     13.5 : 1.0
+        ('fresh', 'air') = True           conser : libert =     13.5 : 1.0
+('democratic', 'nomination') = True           conser : libert =     13.5 : 1.0
+    ('federal', 'taxes') = True           conser : libert =     13.5 : 1.0
+   ('national', 'polls') = True           conser : libert =     13.5 : 1.0
+ ('sanctuary', 'cities') = True           conser : libert =     13.5 : 1.0
+('sustainable', 'development') = True           conser : libert =     13.5 : 1.0
+       ('paid', 'leave') = True           libera : conser =     13.2 : 1.0
+       ('income', 'tax') = True           libert : libera =     13.2 : 1.0
+           ('2015', '5') = True           conser : libert =     13.2 : 1.0
+     ('september', '29') = True           conser : libert =     13.2 : 1.0
+    ('deficits', 'debt') = True           libert : libera =     13.2 : 1.0
+           ('e', 'mail') = True           conser : libert =     13.1 : 1.0
+     ('marine', 'corps') = True           conser : libert =     13.1 : 1.0
+   ('ramesh', 'ponnuru') = True           conser : libera =     13.0 : 1.0
+  ('\x80\x99', 'mother') = True           libera : libert =     12.6 : 1.0
+   ('parental', 'leave') = True           libera : libert =     12.6 : 1.0
+   ('friday', 'morning') = True           libera : libert =     12.6 : 1.0
+      ('anti', 'muslim') = True           libera : libert =     12.6 : 1.0
+      ('main', 'debate') = True           conser : libert =     12.5 : 1.0
+         ('drug', 'war') = True           libert : libera =     12.4 : 1.0
+  ('trade', 'agreement') = True           libert : libera =     12.4 : 1.0
+       ('tax', 'reform') = True           libert : libera =     12.4 : 1.0
+    ('email', 'account') = True           conser : libert =     12.4 : 1.0
+           ('2015', '1') = True           conser : libert =     12.4 : 1.0
+('secretary', 'clinton') = True           conser : libera =     12.2 : 1.0
+   ('roman', 'catholic') = True           conser : libera =     12.2 : 1.0
+    ('buy', 'insurance') = True           conser : libert =     12.1 : 1.0
+        ('mean', '\xe2') = True           conser : libert =     12.1 : 1.0
+      ('senator', 'ted') = True           conser : libert =     12.1 : 1.0
+    ('\x80\x94', 'time') = True           conser : libert =     12.1 : 1.0
+        ('william', 'f') = True           conser : libert =     12.1 : 1.0
+   ('issue', 'national') = True           conser : libert =     12.1 : 1.0
+('government', 'benefits') = True           conser : libert =     12.1 : 1.0
+    ('football', 'team') = True           conser : libert =     12.1 : 1.0
+('department', 'official') = True           conser : libert =     12.1 : 1.0
+('left\xe2', '\x80\x99') = True           conser : libert =     12.1 : 1.0
+     ('october', '2013') = True           conser : libert =     12.1 : 1.0
+         ('top', 'rate') = True           conser : libert =     12.1 : 1.0
+ ('huntington', 'beach') = True           conser : libert =     12.1 : 1.0
+     ('september', '12') = True           conser : libert =     12.1 : 1.0
+   ('goods', 'services') = True           libert : libera =     12.0 : 1.0
+       ('editor', 'new') = True           libera : conser =     12.0 : 1.0
+  ('\x80\x9d', 'writes') = True           libera : libert =     11.9 : 1.0
+  ('law', 'enforcement') = True           libert : libera =     11.9 : 1.0
+   ('cato', 'institute') = True           libert : conser =     11.8 : 1.0
+('planned', 'parenthood') = True           conser : libert =     11.7 : 1.0
+  ('economic', 'crisis') = True           libert : libera =     11.7 : 1.0
+('energy', 'efficiency') = True           libert : libera =     11.7 : 1.0
+       ('u', 'military') = True           libert : libera =     11.7 : 1.0
+       ('tax', 'system') = True           libert : libera =     11.7 : 1.0
+('intellectual', 'property') = True           libert : libera =     11.7 : 1.0
+        ('private', 'e') = True           conser : libert =     11.5 : 1.0
+   ('officials', 'said') = True           conser : libera =     11.4 : 1.0
+('white', 'nationalists') = True           conser : libera =     11.4 : 1.0
+ ('college', 'football') = True           libera : libert =     11.4 : 1.0
+  ('maternity', 'leave') = True           libera : libert =     11.4 : 1.0
+    ('thomas', 'merton') = True           libera : libert =     11.4 : 1.0
+('something', 'happened') = True           libera : libert =     11.4 : 1.0
+('carroll\xe2', '\x80\x99') = True           libera : libert =     11.4 : 1.0
+ ('state', 'department') = True           conser : libera =     11.3 : 1.0
+   ('fourteen', 'years') = True           libera : libert =     11.2 : 1.0
+('nuclear', 'agreement') = True           conser : libera =     11.1 : 1.0
+    ('senior', 'fellow') = True           conser : libera =     11.1 : 1.0
+  ('majority', 'leader') = True           conser : libert =     11.1 : 1.0
+    ('\xe2', '\x80\xa2') = True           conser : libera =     11.0 : 1.0
+        ('tax', 'rates') = True           libert : libera =     11.0 : 1.0
+   ('special', 'forces') = True           libera : conser =     11.0 : 1.0
+  ('private', 'schools') = True           libert : libera =     10.9 : 1.0
+ ('clinton', 'campaign') = True           conser : libera =     10.7 : 1.0
+        ('de', 'blasio') = True           conser : libera =     10.7 : 1.0
+('conscientious', 'objection') = True           conser : libert =     10.7 : 1.0
+       ('beach', 'high') = True           conser : libert =     10.7 : 1.0
+('government', 'business') = True           conser : libert =     10.7 : 1.0
+('controversy', 'clinton') = True           conser : libert =     10.7 : 1.0
+    ('world', 'meeting') = True           conser : libert =     10.7 : 1.0
+    ('four', 'children') = True           conser : libert =     10.7 : 1.0
+('republican', 'members') = True           conser : libert =     10.7 : 1.0
+        ('f', 'buckley') = True           conser : libert =     10.7 : 1.0
+     ('work', 'permits') = True           conser : libert =     10.7 : 1.0
+        ('win', 'white') = True           conser : libert =     10.7 : 1.0
+('education', 'university') = True           conser : libert =     10.7 : 1.0
+      ('secret', 'side') = True           conser : libert =     10.7 : 1.0
+    ('crown', 'heights') = True           conser : libert =     10.7 : 1.0
+          ('20', '2015') = True           conser : libert =     10.7 : 1.0
+           ('2015', '9') = True           conser : libert =     10.7 : 1.0
+              ('n', 'y') = True           conser : libert =     10.7 : 1.0
+('washington', 'examiner') = True           conser : libert =     10.7 : 1.0
+   ('\x80\x94', 'david') = True           conser : libert =     10.7 : 1.0
+        ('cruz', 'said') = True           conser : libert =     10.7 : 1.0
+    ('house', 'freedom') = True           conser : libert =     10.7 : 1.0
+('democratic', 'debate') = True           conser : libert =     10.7 : 1.0
+('committee\xe2', '\x80\x99') = True           conser : libert =     10.7 : 1.0
+('annulment', 'process') = True           conser : libert =     10.7 : 1.0
+ ('\x80\x99', 'private') = True           conser : libert =     10.7 : 1.0
+ ('flight', 'attendant') = True           conser : libert =     10.7 : 1.0
+       ('body', 'parts') = True           conser : libert =     10.7 : 1.0
+         ('iowa', 'new') = True           conser : libert =     10.7 : 1.0
+       ('mr', 'boehner') = True           libera : libert =     10.5 : 1.0
+         ('flat', 'tax') = True           libert : conser =     10.5 : 1.0
+('night\xe2', '\x80\x99') = True           libera : conser =     10.4 : 1.0
+    ('annual', 'report') = True           libert : conser =     10.4 : 1.0
+      ('clean', 'power') = True           libert : conser =     10.2 : 1.0
+         ('gop', 'race') = True           libera : libert =     10.2 : 1.0
+('political', 'economy') = True           libera : libert =     10.2 : 1.0
+   ('mr', 'boehner\xe2') = True           libera : libert =     10.2 : 1.0
+  ('vermont', 'senator') = True           libera : libert =     10.2 : 1.0
+('background', 'checks') = True           libera : libert =     10.2 : 1.0
+('\x80\x9d', 'continued') = True           libera : libert =     10.2 : 1.0
+    ('paul', 'actually') = True           libera : libert =     10.2 : 1.0
+         ('u', 'troops') = True           libert : libera =     10.2 : 1.0
+('financial', 'meltdown') = True           libert : conser =     10.2 : 1.0
+('resolution', 'disapproval') = True           conser : libert =     10.0 : 1.0
+    ('house', 'speaker') = True           conser : libert =     10.0 : 1.0
+     ('front', 'runner') = True           conser : libert =     10.0 : 1.0
+    ('senior', 'editor') = True           libera : libert =     10.0 : 1.0
+    ('export', 'import') = True           conser : libera =      9.9 : 1.0
+      ('import', 'bank') = True           conser : libera =      9.9 : 1.0
+     ('september', '10') = True           conser : libera =      9.9 : 1.0
+       ('harry', 'reid') = True           conser : libera =      9.9 : 1.0
+  ('civil', 'liberties') = True           libert : conser =      9.9 : 1.0
+          ('may', 'far') = True           libert : conser =      9.9 : 1.0
+              ('p', 'm') = True           conser : libera =      9.7 : 1.0
+       ('october', '20') = True           conser : libera =      9.7 : 1.0
+       ('power', 'plan') = True           libert : conser =      9.7 : 1.0
+      ('natural', 'gas') = True           libert : libera =      9.4 : 1.0
+  ('mitch', 'mcconnell') = True           conser : libert =      9.4 : 1.0
+   ('private', 'server') = True           conser : libert =      9.4 : 1.0
+    ('fran\xc3', '\xa7') = True           libera : conser =      9.3 : 1.0
+    ('anti', 'abortion') = True           libera : conser =      9.3 : 1.0
+      ('fossil', 'fuel') = True           libera : conser =      9.3 : 1.0
+  ('\x80\x99', 'middle') = True           conser : libert =      9.2 : 1.0
+   ('three', 'children') = True           conser : libert =      9.2 : 1.0
+('continuing', 'resolution') = True           conser : libert =      9.2 : 1.0
+  ('black', 'americans') = True           conser : libert =      9.2 : 1.0
+   ('large', 'national') = True           conser : libert =      9.2 : 1.0
+   ('christian', 'life') = True           conser : libert =      9.2 : 1.0
+   ('employer', 'based') = True           conser : libert =      9.2 : 1.0
+     ('clinton', '\xe2') = True           conser : libert =      9.2 : 1.0
+    ('\x80\x99', 'feel') = True           conser : libert =      9.2 : 1.0
+        ('know', 'much') = True           conser : libert =      9.2 : 1.0
+       ('rich', 'lowry') = True           conser : libert =      9.2 : 1.0
+        ('air', 'power') = True           conser : libert =      9.2 : 1.0
+      ('bureau', 'land') = True           conser : libert =      9.2 : 1.0
+('anyone\xe2', '\x80\x99') = True           conser : libert =      9.2 : 1.0
+   ('deals', 'congress') = True           conser : libert =      9.2 : 1.0
+      ('senator', 'tom') = True           conser : libert =      9.2 : 1.0
+  ('walker', 'campaign') = True           conser : libert =      9.2 : 1.0
+          ('18', '2015') = True           conser : libert =      9.2 : 1.0
+     ('message', '\xe2') = True           conser : libert =      9.2 : 1.0
+              ('g', 'e') = True           conser : libert =      9.2 : 1.0
+    ('violence', '\xe2') = True           conser : libert =      9.2 : 1.0
+    ('\x80\x99', 'body') = True           conser : libert =      9.2 : 1.0
+    ('jeremy', 'corbyn') = True           conser : libert =      9.2 : 1.0
+        ('july', '2014') = True           conser : libert =      9.2 : 1.0
+       ('course', 'one') = True           conser : libert =      9.2 : 1.0
+    ('clinton', 'state') = True           conser : libert =      9.2 : 1.0
+     ('someone', 'said') = True           conser : libert =      9.2 : 1.0
+   ('september', '2014') = True           conser : libert =      9.2 : 1.0
+       ('given', '\xe2') = True           conser : libert =      9.2 : 1.0
+ ('\x80\x9d', 'clinton') = True           conser : libert =      9.2 : 1.0
+       ('spent', 'time') = True           conser : libert =      9.2 : 1.0
+   ('eliana', 'johnson') = True           conser : libert =      9.2 : 1.0
+              ('c', 'w') = True           conser : libera =      9.1 : 1.0
+          ('10', '2015') = True           conser : libera =      9.1 : 1.0
+        ('charles', 'c') = True           conser : libera =      9.1 : 1.0
+          ('king', 'jr') = True           libera : libert =      9.0 : 1.0
+           ('6', '\xe2') = True           libera : libert =      9.0 : 1.0
+       ('war', 'crimes') = True           libera : libert =      9.0 : 1.0
+('conservative', 'members') = True           libera : libert =      9.0 : 1.0
+('israel\xe2', '\x80\x99') = True           libera : libert =      9.0 : 1.0
+       ('jay', 'carney') = True           libera : libert =      9.0 : 1.0
+   ('\x80\x99', 's\xe2') = True           libera : libert =      9.0 : 1.0
+   ('senator', 'bernie') = True           libera : libert =      9.0 : 1.0
+ ('one\xe2', '\x80\x94') = True           libera : libert =      9.0 : 1.0
+           ('3', '\xe2') = True           libera : libert =      9.0 : 1.0
+ ('probably', 'won\xe2') = True           libera : libert =      9.0 : 1.0
+ ('address', 'congress') = True           libera : libert =      9.0 : 1.0
+ ('\x80\x94', 'another') = True           libera : libert =      9.0 : 1.0
+        ('us', 'forces') = True           libera : libert =      9.0 : 1.0
+  ('\x80\x9d', 'making') = True           libera : libert =      9.0 : 1.0
+    ('right', 'wingers') = True           libera : libert =      9.0 : 1.0
+       ('war', 'terror') = True           libera : libert =      9.0 : 1.0
+  ('everything', 'know') = True           libera : libert =      9.0 : 1.0
+('maryland', 'governor') = True           libera : libert =      9.0 : 1.0
+              ('6', '6') = True           libera : libert =      9.0 : 1.0
+('social', 'conservatives') = True           libera : libert =      9.0 : 1.0
+  ('knew', 'everything') = True           libera : libert =      9.0 : 1.0
+   ('defund', 'planned') = True           libera : libert =      9.0 : 1.0
+      ('self', 'esteem') = True           libera : libert =      9.0 : 1.0
+('\x80\x99', 'december') = True           libera : libert =      9.0 : 1.0
+      ('every', 'human') = True           libera : libert =      9.0 : 1.0
+   ('\x80\x94', 'could') = True           libera : libert =      9.0 : 1.0
+('classified', 'material') = True           conser : libert =      9.0 : 1.0
+ ('day\xe2', '\x80\x99') = True           conser : libert =      9.0 : 1.0
+ ('magazine', 'content') = True           conser : libert =      9.0 : 1.0
+  ('weekly', 'standard') = True           conser : libert =      9.0 : 1.0
+    ('run', 'president') = True           conser : libert =      8.8 : 1.0
+   ('global', 'warming') = True           libert : conser =      8.7 : 1.0
+('bellow\xe2', '\x80\x99') = True           libera : conser =      8.7 : 1.0
+    ('martin', 'luther') = True           libera : conser =      8.7 : 1.0
+         ('low', 'wage') = True           libera : conser =      8.7 : 1.0
+        ('war', 'drugs') = True           libert : libera =      8.7 : 1.0
+   ('\x80\x99', 'visit') = True           libera : libert =      8.5 : 1.0
+        ('3', 'percent') = True           libert : libera =      8.3 : 1.0
+('intelligence', 'agency') = True           libert : libera =      8.3 : 1.0
+('reagan\xe2', '\x80\x99') = True           conser : libera =      8.3 : 1.0
+         ('tax', 'plan') = True           conser : libera =      8.3 : 1.0
+       ('2015', 'issue') = True           conser : libera =      8.3 : 1.0
+('illegal', 'immigrants') = True           conser : libera =      8.3 : 1.0
+              ('0', '2') = True           libera : libert =      8.3 : 1.0
+  ('\x80\x99', 'debate') = True           libera : libert =      8.3 : 1.0
+          ('many', 'us') = True           libera : libert =      8.3 : 1.0
+('canada\xe2', '\x80\x99') = True           libera : libert =      8.3 : 1.0
+    ('every', 'morning') = True           libera : libert =      8.3 : 1.0
+         ('told', 'new') = True           libera : libert =      8.3 : 1.0
+       ('child', 'care') = True           conser : libert =      8.2 : 1.0
+           ('2015', '2') = True           conser : libert =      8.2 : 1.0
+         ('\xa7', 'ois') = True           libera : conser =      8.2 : 1.0
+('colbert\xe2', '\x80\x99') = True           libera : conser =      8.2 : 1.0
+       ('\x80\x93', '0') = True           libera : conser =      8.2 : 1.0
+        ('full', 'time') = True           libera : conser =      8.2 : 1.0
+('francis\xe2', '\x80\x99') = True           libera : libert =      8.1 : 1.0
+     ('september', '24') = True           conser : libert =      8.1 : 1.0
+     ('leader', 'mitch') = True           conser : libert =      8.1 : 1.0
+     ('john', 'boehner') = True           conser : libert =      8.1 : 1.0
+            ('ex', 'im') = True           conser : libert =      8.0 : 1.0
+('government', 'spending') = True           libert : conser =      8.0 : 1.0
+   ('public', 'schools') = True           libert : conser =      8.0 : 1.0
+       ('iraq', 'syria') = True           libert : conser =      8.0 : 1.0
+    ('welfare', 'state') = True           libert : libera =      8.0 : 1.0
+('house', 'republicans') = True           conser : libert =      7.9 : 1.0
+ ('pope', 'francis\xe2') = True           conser : libert =      7.9 : 1.0
+         ('abc', 'news') = True           conser : libera =      7.8 : 1.0
+      ('mrs', 'fiorina') = True           conser : libera =      7.8 : 1.0
+   ('supreme', 'leader') = True           conser : libert =      7.8 : 1.0
+      ('tom', 'elliott') = True           conser : libert =      7.8 : 1.0
+    ('air', 'force\xe2') = True           conser : libert =      7.8 : 1.0
+            ('42', 'pm') = True           conser : libert =      7.8 : 1.0
+('immediately', 'following') = True           conser : libert =      7.8 : 1.0
+   ('issue', 'licenses') = True           conser : libert =      7.8 : 1.0
+   ('win', 'presidency') = True           conser : libert =      7.8 : 1.0
+           ('cruz', 'r') = True           conser : libert =      7.8 : 1.0
+      ('gop', 'leaders') = True           conser : libert =      7.8 : 1.0
+     ('october', '2011') = True           conser : libert =      7.8 : 1.0
+      ('coming', 'home') = True           conser : libert =      7.8 : 1.0
+    ('refugees', '\xe2') = True           conser : libert =      7.8 : 1.0
+      ('marked', '\xe2') = True           conser : libert =      7.8 : 1.0
+     ('january', '2014') = True           conser : libert =      7.8 : 1.0
+       ('us', 'believe') = True           conser : libert =      7.8 : 1.0
+        ('move', 'jobs') = True           conser : libert =      7.8 : 1.0
+  ('campaign', 'speech') = True           conser : libert =      7.8 : 1.0
+ ('\x80\x9c', 'talking') = True           conser : libert =      7.8 : 1.0
+      ('re', 'bringing') = True           conser : libert =      7.8 : 1.0
+    ('early', 'morning') = True           conser : libert =      7.8 : 1.0
+      ('september', '9') = True           conser : libert =      7.8 : 1.0
+('preexisting', 'conditions') = True           conser : libert =      7.8 : 1.0
+       ('top', 'secret') = True           conser : libert =      7.8 : 1.0
+  ('\x80\x99', 'secret') = True           conser : libert =      7.8 : 1.0
+   ('sunday', 'morning') = True           conser : libert =      7.8 : 1.0
+   ('climate', 'treaty') = True           conser : libert =      7.8 : 1.0
+        ('true', '\xe2') = True           conser : libert =      7.8 : 1.0
+  ('resolution', '\xe2') = True           conser : libert =      7.8 : 1.0
+('then\xe2', '\x80\x93') = True           conser : libert =      7.8 : 1.0
+    ('\x80\x99', 'left') = True           conser : libert =      7.8 : 1.0
+    ('slightly', 'less') = True           conser : libert =      7.8 : 1.0
+('speaker\xe2', '\x80\x99') = True           conser : libert =      7.8 : 1.0
+        ('trump', 'may') = True           conser : libert =      7.8 : 1.0
+('force\xe2', '\x80\x99') = True           conser : libert =      7.8 : 1.0
+('government', 'shutdown') = True           conser : libert =      7.8 : 1.0
+ ('\x80\x9d', 'comment') = True           conser : libert =      7.8 : 1.0
+  ('last', 'republican') = True           conser : libert =      7.8 : 1.0
+ ('bill', 'clinton\xe2') = True           conser : libert =      7.8 : 1.0
+   ('said', 'something') = True           conser : libert =      7.8 : 1.0
+('economic', 'opportunity') = True           conser : libert =      7.8 : 1.0
+    ('\x80\x99', 'team') = True           conser : libert =      7.8 : 1.0
+  ('minority', 'leader') = True           conser : libert =      7.8 : 1.0
+     ('\x80\x9c', 'hey') = True           conser : libert =      7.8 : 1.0
+('iranian', 'officials') = True           conser : libert =      7.8 : 1.0
+     ('culture', '\xe2') = True           conser : libert =      7.8 : 1.0
+       ('tom', 'cotton') = True           conser : libert =      7.8 : 1.0
+  ('\x80\x9c', 'middle') = True           conser : libert =      7.8 : 1.0
+     ('vicar', 'christ') = True           conser : libert =      7.8 : 1.0
+     ('\x80\x9c', 'yes') = True           conser : libert =      7.8 : 1.0
+     ('peter', 'roskam') = True           conser : libert =      7.8 : 1.0
+('presidential', 'front') = True           conser : libert =      7.8 : 1.0
+        ('tax', 'break') = True           conser : libert =      7.8 : 1.0
+('wednesday', 'afternoon') = True           conser : libert =      7.8 : 1.0
+     ('human', 'person') = True           conser : libert =      7.8 : 1.0
+    ('\x80\x9c', 'love') = True           conser : libert =      7.8 : 1.0
+      ('big', 'problem') = True           conser : libert =      7.8 : 1.0
+  ('kentucky', 'county') = True           conser : libert =      7.8 : 1.0
+        ('women', 'men') = True           conser : libert =      7.8 : 1.0
+    ('state', 'capitol') = True           conser : libert =      7.8 : 1.0
+   ('\x80\x94', 'right') = True           conser : libert =      7.8 : 1.0
+           ('9', '2015') = True           conser : libert =      7.8 : 1.0
+      ('putting', 'end') = True           conser : libert =      7.8 : 1.0
+     ('\x80\x94', 'get') = True           conser : libert =      7.8 : 1.0
+('\x80\x99', 'historic') = True           conser : libert =      7.8 : 1.0
+('today\xe2', '\x80\x94') = True           libera : libert =      7.8 : 1.0
+           ('\xad', 'n') = True           libera : libert =      7.8 : 1.0
+       ('truth', '\xe2') = True           libera : libert =      7.8 : 1.0
+  ('worker', 'movement') = True           libera : libert =      7.8 : 1.0
+         ('buy', 'book') = True           libera : libert =      7.8 : 1.0
+           ('4', '\xe2') = True           libera : libert =      7.8 : 1.0
+        ('back', 'work') = True           libera : libert =      7.8 : 1.0
+   ('everyone', 'knows') = True           libera : libert =      7.8 : 1.0
+('\x80\x9c', 'actually') = True           libera : libert =      7.8 : 1.0
+        ('sea', 'level') = True           libera : libert =      7.8 : 1.0
+     ('\x80\x9d', 'may') = True           libera : libert =      7.8 : 1.0
+  ('\x80\x94', 'denied') = True           libera : libert =      7.8 : 1.0
+   ('black', 'families') = True           libera : libert =      7.8 : 1.0
+    ('next', 'election') = True           libera : libert =      7.8 : 1.0
+  ('science', 'fiction') = True           libera : libert =      7.8 : 1.0
+       ('lines', '\xe2') = True           libera : libert =      7.8 : 1.0
+   ('y\xe2', '\x80\x99') = True           libera : libert =      7.8 : 1.0
+      ('better', 'life') = True           libera : libert =      7.8 : 1.0
+   ('\x80\x9d', 'crane') = True           libera : libert =      7.8 : 1.0
+ ('background', 'check') = True           libera : libert =      7.8 : 1.0
+          ('years', '9') = True           libera : libert =      7.8 : 1.0
+     ('brought', 'back') = True           libera : libert =      7.8 : 1.0
+       ('debt', 'limit') = True           libera : libert =      7.8 : 1.0
+  ('clinton', 'sanders') = True           libera : libert =      7.8 : 1.0
+       ('essay', '\xe2') = True           libera : libert =      7.8 : 1.0
+       ('10', 'million') = True           libera : libert =      7.8 : 1.0
+    ('know', 'happened') = True           libera : libert =      7.8 : 1.0
+       ('many', 'books') = True           libera : libert =      7.8 : 1.0
+     ('boehner', 'said') = True           libera : libert =      7.8 : 1.0
+('conspiracy', 'theories') = True           libera : libert =      7.8 : 1.0
+  ('\x80\x99', 'church') = True           libera : libert =      7.8 : 1.0
+('hillary', 'clinton\xe2') = True           conser : libert =      7.7 : 1.0
+        ('joe', 'biden') = True           conser : libert =      7.7 : 1.0
+('pope\xe2', '\x80\x99') = True           conser : libert =      7.6 : 1.0
+     ('speaker', 'john') = True           conser : libert =      7.6 : 1.0
+ ('repeal', 'obamacare') = True           conser : libert =      7.6 : 1.0
+   ('sanctions', 'iran') = True           conser : libert =      7.6 : 1.0
+        ('paul', 'ryan') = True           conser : libert =      7.6 : 1.0
+ ('mainstream', 'media') = True           conser : libert =      7.6 : 1.0
+       ('first', 'lady') = True           conser : libert =      7.6 : 1.0
+      ('take', 'action') = True           libera : conser =      7.6 : 1.0
+      ('year', 'change') = True           libera : conser =      7.6 : 1.0
+     ('arms', 'control') = True           libert : libera =      7.6 : 1.0
+('japan\xe2', '\x80\x99') = True           libert : libera =      7.6 : 1.0
+        ('four', 'year') = True           libert : libera =      7.6 : 1.0
+      ('due', 'process') = True           libert : libera =      7.6 : 1.0
+      ('percent', 'gdp') = True           libert : libera =      7.6 : 1.0
+('china\xe2', '\x80\x99') = True           libert : libera =      7.6 : 1.0
+   ('\x80\x99', 'words') = True           libera : libert =      7.6 : 1.0
+         ('14', 'years') = True           libera : libert =      7.6 : 1.0
+      ('xl', 'pipeline') = True           libera : libert =      7.6 : 1.0
+('biden\xe2', '\x80\x99') = True           libera : libert =      7.6 : 1.0
+          ('000', '000') = True           libera : libert =      7.6 : 1.0
+('religious', 'beliefs') = True           conser : libera =      7.5 : 1.0
+ ('anti', 'immigration') = True           conser : libera =      7.5 : 1.0
+ ('foreign', 'minister') = True           conser : libera =      7.5 : 1.0
+            ('2', '500') = True           conser : libera =      7.5 : 1.0
+       ('much', 'money') = True           conser : libera =      7.5 : 1.0
+('endangered', 'species') = True           conser : libera =      7.5 : 1.0
+     ('september', '26') = True           conser : libera =      7.5 : 1.0
+('republican', 'voters') = True           conser : libera =      7.5 : 1.0
+    ('\xe2', '\x80\x94') = True           conser : libera =      7.5 : 1.0
+('\x80\x99', 'possible') = True           libera : libert =      7.5 : 1.0
+('homeland', 'security') = True           libert : libera =      7.4 : 1.0
+    ('working', 'class') = True           libera : libert =      7.4 : 1.0
+ ('defense', 'spending') = True           libert : conser =      7.4 : 1.0
+            ('de', 'la') = True           libert : conser =      7.4 : 1.0
+   ('iran', 'agreement') = True           conser : libert =      7.3 : 1.0
+        ('week', '\xe2') = True           conser : libert =      7.2 : 1.0
+      ('jorge', 'ramos') = True           conser : libert =      7.2 : 1.0
+('congressional', 'republicans') = True           conser : libert =      7.2 : 1.0
+       ('phone', 'call') = True           conser : libert =      7.2 : 1.0
+      ('na\xc3', '\xaf') = True           conser : libert =      7.2 : 1.0
+('defense', 'intelligence') = True           libert : libera =      7.2 : 1.0
+    ('ahmed', 'mohamed') = True           libert : libera =      7.2 : 1.0
+('\x80\x99', 'education') = True           libert : libera =      7.2 : 1.0
+ ('small', 'government') = True           libert : libera =      7.2 : 1.0
+ ('economic', 'freedom') = True           libert : libera =      7.2 : 1.0
+  ('school', 'district') = True           libert : libera =      7.2 : 1.0
+      ('health', 'care') = True           conser : libera =      7.2 : 1.0
+ ('trading', 'partners') = True           libert : conser =      7.0 : 1.0
+   ('global', 'economy') = True           libert : conser =      7.0 : 1.0
+    ('trans', 'pacific') = True           libert : conser =      7.0 : 1.0
+('pacific', 'partnership') = True           libert : conser =      7.0 : 1.0
+           ('1', '\xe2') = True           libera : conser =      7.0 : 1.0
+      ('luther', 'king') = True           libera : conser =      7.0 : 1.0
+('contributing', 'editor') = True           libera : conser =      7.0 : 1.0
+   ('\x80\x99', 'books') = True           libera : conser =      7.0 : 1.0
+('workers\xe2', '\x80\x99') = True           libera : conser =      7.0 : 1.0
+('bernie', 'sanders\xe2') = True           libera : conser =      7.0 : 1.0
+   ('asylum', 'seekers') = True           libera : conser =      7.0 : 1.0
+         ('like', 'one') = True           libera : libert =      7.0 : 1.0
+   ('talking', 'points') = True           conser : libert =      7.0 : 1.0
+        ('star', 'wars') = True           conser : libert =      7.0 : 1.0
+        ('word', '\xe2') = True           libera : libert =      7.0 : 1.0
+        ('iran', 'deal') = True           conser : libera =      6.9 : 1.0
+('inspector', 'general') = True           conser : libera =      6.9 : 1.0
+         ('o', 'malley') = True           conser : libera =      6.9 : 1.0
+('launched', 'campaign') = True           conser : libera =      6.9 : 1.0
+      ('gun', 'control') = True           conser : libert =      6.9 : 1.0
+    ('clinton', 'email') = True           conser : libert =      6.9 : 1.0
+  ('school', 'students') = True           libert : libera =      6.9 : 1.0
+ ('russian', 'military') = True           libert : libera =      6.9 : 1.0
+('fourteenth', 'amendment') = True           libert : libera =      6.9 : 1.0
+     ('\x80\x99', 'gop') = True           libera : libert =      6.8 : 1.0
+('democratic', 'national') = True           libera : libert =      6.8 : 1.0
+   ('working', 'people') = True           libera : libert =      6.8 : 1.0
+    ('\x80\x99', 'last') = True           libera : libert =      6.8 : 1.0
+('\x80\x9d', 'declared') = True           libera : libert =      6.8 : 1.0
+    ('\x80\x94', 'case') = True           libera : libert =      6.8 : 1.0
+     ('september', '11') = True           conser : libera =      6.8 : 1.0
+       ('april', '2011') = True           conser : libera =      6.7 : 1.0
+   ('caucus', 'members') = True           conser : libera =      6.7 : 1.0
+    ('\x80\x9c', 'fair') = True           conser : libera =      6.7 : 1.0
+      ('world', 'today') = True           conser : libera =      6.7 : 1.0
+       ('st', 'francis') = True           conser : libera =      6.7 : 1.0
+    ('motion', 'vacate') = True           conser : libera =      6.7 : 1.0
+       ('rick', 'perry') = True           conser : libera =      6.7 : 1.0
